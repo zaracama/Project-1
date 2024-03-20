@@ -1,0 +1,29 @@
+[
+   {
+       "name": "Agumon",
+       "image": "https://imgur.com/a/htZL4BS",
+       "attack": 50,
+       "hp": 100,
+       "speed": 60,
+       "level": 5,
+       "type": "Fire"
+   },
+   {
+       "name": "Gabumon",
+       "image": "https://imgur.com/xIZ85b1",
+       "attack": 35,
+       "hp": 70,
+       "speed": 55,
+       "level": 1,
+       "type": "Ice"
+   },
+   {
+       "name": "Patamon",
+       "image": "https://imgur.com/a/DMHjXB9",
+       "attack": 40,
+       "hp": 80,
+       "speed": 70,
+       "level": 3,
+       "type": "Light"
+   }
+]
