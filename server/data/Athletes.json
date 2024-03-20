@@ -1,0 +1,16 @@
+[
+   {
+       "username": "tes  1",
+       "email": "tes1@mail.com",
+       "password": "576576",
+       "amount": "1000",
+       "address": "Jl. Kemana "
+   },
+   {
+       "username": "tes 2",
+       "email": "tes2@mail.com",
+       "password": "576576",
+       "amount": "2000",
+       "address": "Jl. Kamu Nanyak "
+   }
+]
